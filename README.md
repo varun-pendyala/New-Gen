@@ -1,2 +1,2 @@
 # New-Gen
-Test Project
+Project that deals with all the new technologies which will help us to uptodate.
